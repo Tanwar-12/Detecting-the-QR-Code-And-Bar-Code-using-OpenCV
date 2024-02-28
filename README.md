@@ -1,4 +1,5 @@
-# Detecting-the-QR-Code-Bar-Code-Using-Opencv
+# OPENCV PROJECT
+ # Detecting-the-QR-Code-Bar-Code-Using-Opencv
 ## To perform QR Code and Bar Code detection using OpenCV in Python, you can follow these steps:
 ### Step 1.Open the terminal in PyCharm and run the following commands to install the required libraries:
 Make sure you have OpenCV installed. You can install it using:
