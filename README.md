@@ -1,0 +1,1 @@
+# Detecting-the-QR-Code-Bar-Code-Using-Opencv
